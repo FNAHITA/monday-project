@@ -9,6 +9,7 @@ public class ProjectOne {
      * You have string "number", get each character from the string and return the char array
      * Hint: use toCharArray method
      */
+    //jbyhghj
     public char[] getChars(String number) {
         char[] eachWord = {};
         // write your code here
